@@ -1,2 +1,2 @@
 # testrepo
-Just for testing
+provide project details
